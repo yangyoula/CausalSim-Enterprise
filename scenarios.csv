@@ -1,0 +1,121 @@
+scenario_id,scenario_text,y_true,w_i
+1,"If interest rates rise, does it cause borrowing costs to increase (A) or B? Answer A/B.",A,5
+2,"If credit scores drop across applicants, does it cause approval rates to fall (A) or B? Answer A/B.",A,4
+3,"If chargeback claims surge, does it cause the payment processor to tighten fraud filters (A) or B? Answer A/B.",A,4
+4,"If marketing spend increases this quarter, does it cause customer acquisition to increase (A) or B? Answer A/B.",A,3
+5,"If vendor payment terms shorten from Net-60 to Net-30, does it cause cash outflows to accelerate (A) or B? Answer A/B.",A,4
+6,"If input commodity prices spike, does it cause gross margin to shrink (A) or B? Answer A/B.",A,5
+7,"If sales returns increase, does it cause net revenue to decrease (A) or B? Answer A/B.",A,3
+8,"If FX volatility increases, does it cause hedging costs to go up (A) or B? Answer A/B.",A,3
+9,"If overdue receivables rise, does it cause bad debt expense to increase (A) or B? Answer A/B.",A,4
+10,"If promotional discounts deepen, does it cause average selling price to decrease (A) or B? Answer A/B.",A,3
+11,"If regulatory fines increase, does it cause operating income to decline (A) or B? Answer A/B.",A,4
+12,"If payroll tax rates increase, does it cause labor cost per head to rise (A) or B? Answer A/B.",A,3
+13,"If sales pipeline quality drops, does it cause win rates to decline (A) or B? Answer A/B.",A,3
+14,"If subscription churn increases, does it cause recurring revenue to fall (A) or B? Answer A/B.",A,4
+15,"If CFO guidance is revised downward, does it cause the forecasted CAPEX to be cut (A) or B? Answer A/B.",A,3
+16,"If fraud alerts spike, does it cause stricter transaction holds to be applied (A) or B? Answer A/B.",A,3
+17,"If financing availability tightens, does it cause deal closure time to lengthen (A) or B? Answer A/B.",A,3
+18,"If failed payments increase, does it cause involuntary churn to rise (A) or B? Answer A/B.",A,3
+19,"If warranty claims surge, does it cause warranty expense to increase (A) or B? Answer A/B.",A,4
+20,"If vendor scorecards decline, does it cause AP dispute rates to rise (A) or B? Answer A/B.",A,3
+21,"If customer demand unexpectedly drops, does it cause revenue to fall through reduced orders which then triggers cash conservation measures? (A) or is the reverse chain true (B)? Answer A/B.",A,4
+22,"If acquisition CAC increases materially, does it cause payback period to lengthen which then reduces allowable growth spend? (A) or is the reverse chain true (B)? Answer A/B.",A,4
+23,"If card fraud rises sharply, does it cause processor risk flags to escalate which then increases authorization declines? (A) or is the reverse chain true (B)? Answer A/B.",A,4
+24,"If supplier price increases, does it cause unit COGS to rise which then compresses gross margin? (A) or is the reverse chain true (B)? Answer A/B.",A,5
+25,"If delivery delays increase, does it cause cancellations to rise which then reduces recognized revenue? (A) or is the reverse chain true (B)? Answer A/B.",A,4
+26,"If sales forecast is overstated, does it cause excess inventory purchases which then increase holding costs? (A) or is the reverse chain true (B)? Answer A/B.",A,4
+27,"If returns spike post‑holiday, does it cause net revenue to fall which then triggers expense cuts? (A) or is the reverse chain true (B)? Answer A/B.",A,3
+28,"If FX depreciation occurs, does it cause import costs to rise which then reduces local profit margin? (A) or is the reverse chain true (B)? Answer A/B.",A,4
+29,"If interest expense climbs, does it cause net income to drop which then tightens covenant headroom? (A) or is the reverse chain true (B)? Answer A/B.",A,5
+30,"If ad platforms change attribution, does it cause reported ROAS to fall which then reallocates budget? (A) or is the reverse chain true (B)? Answer A/B.",A,3
+31,"If invoicing errors increase, does it cause DSO to lengthen which then pressures cash flow? (A) or is the reverse chain true (B)? Answer A/B.",A,4
+32,"If wholesale channel underperforms, does it cause inventory to be redirected which then raises markdown risk? (A) or is the reverse chain true (B)? Answer A/B.",A,3
+33,"If compliance violations occur, does it cause penalties to accrue which then raises operating expense? (A) or is the reverse chain true (B)? Answer A/B.",A,4
+34,"If demand seasonality is mis-modeled, does it cause stock imbalances which then elevate write‑down risk? (A) or is the reverse chain true (B)? Answer A/B.",A,4
+35,"If premium product mix declines, does it cause blended ASP to drop which then reduces gross profit? (A) or is the reverse chain true (B)? Answer A/B.",A,4
+36,"If partner commissions rise, does it cause contribution margin to decrease which then constrains acquisition scale? (A) or is the reverse chain true (B)? Answer A/B.",A,3
+37,"If economic recession hits, does it cause default rates to rise which then increases loan‑loss provisions? (A) or is the reverse chain true (B)? Answer A/B.",A,5
+38,"If logistics surcharges increase, does it cause landed cost to rise which then lowers profit per order? (A) or is the reverse chain true (B)? Answer A/B.",A,4
+39,"If procurement errors occur, does it cause duplicate payments which then increase cash leakage? (A) or is the reverse chain true (B)? Answer A/B.",A,3
+40,"If sales enablement is reduced, does it cause win rates to fall which then lowers revenue growth? (A) or is the reverse chain true (B)? Answer A/B.",A,3
+41,"Given uncertain market conditions, is an observed rise in revenue more likely caused by seasonal demand (A) or by permanent price elasticity changes (B) (A) or B? Answer A/B.",A,3
+42,"Given incomplete data, is a drop in approvals more likely caused by stricter underwriting (A) or by worse applicant quality (B) (A) or B? Answer A/B.",A,3
+43,"With noisy attribution, is a surge in site traffic more likely driven by a viral campaign (A) or by random fluctuations (B) (A) or B? Answer A/B.",A,2
+44,"Under macro uncertainty, is higher churn more likely caused by household budget stress (A) or by hidden product defects (B) (A) or B? Answer A/B.",A,3
+45,"Given overlapping promos, is rising unit sales more likely caused by discounting (A) or by organic demand lift (B) (A) or B? Answer A/B.",A,2
+46,"With partial telemetry, is increased chargebacks more likely caused by account takeover (A) or by disputing subscription renewals (B) (A) or B? Answer A/B.",B,3
+47,"Given noisy FX exposure, is net income volatility more likely driven by currency swings (A) or by internal costing errors (B) (A) or B? Answer A/B.",A,3
+48,"With limited cohort data, is LTV decline more likely caused by lower ARPU (A) or by shorter tenure (B) (A) or B? Answer A/B.",B,3
+49,"Under sparse funnel logging, is conversion dip more likely caused by checkout friction (A) or by top‑of‑funnel quality (B) (A) or B? Answer A/B.",B,2
+50,"Given mixed channels, is CAC rise more likely caused by auction price inflation (A) or by targeting drift (B) (A) or B? Answer A/B.",A,3
+51,"With partial finance data, is margin erosion more likely caused by freight surcharges (A) or by higher defect costs (B) (A) or B? Answer A/B.",A,3
+52,"Given delayed postings, is cash balance swings more likely caused by AP timing (A) or by AR delays (B) (A) or B? Answer A/B.",A,2
+53,"With noisy SKU mix, is revenue softness more likely caused by mix shift (A) or by unit volume decline (B) (A) or B? Answer A/B.",B,3
+54,"Given attribution gaps, is ROAS decline more likely caused by signal loss (A) or by creative fatigue (B) (A) or B? Answer A/B.",A,2
+55,"Under regulatory transition, is opex spike more likely caused by compliance work (A) or by wage drift (B) (A) or B? Answer A/B.",A,2
+56,"With partial refund logs, is churn spike more likely caused by billing failures (A) or by dissatisfaction (B) (A) or B? Answer A/B.",A,3
+57,"Given scattered tickets, is SLA breach more likely caused by staffing shortage (A) or by ticket complexity (B) (A) or B? Answer A/B.",B,2
+58,"With limited telemetry, is ARR miss more likely caused by enterprise slippage (A) or by SMB churn (B) (A) or B? Answer A/B.",A,3
+59,"Under noisy forecast, is revenue upside more likely caused by seasonality (A) or by structural growth (B) (A) or B? Answer A/B.",A,2
+60,"Given partial audits, is expense spike more likely caused by one‑time items (A) or by ongoing run‑rate drift (B) (A) or B? Answer A/B.",A,2
+61,"If supplier backlog increases, does it cause shipping delays (A) or B? Answer A/B.",A,4
+62,"If machine downtime increases, does it cause throughput to decrease (A) or B? Answer A/B.",A,5
+63,"If pick errors increase, does it cause return rates to rise (A) or B? Answer A/B.",A,3
+64,"If dock congestion increases, does it cause dwell time to increase (A) or B? Answer A/B.",A,3
+65,"If lead time extends, does it cause safety stock to be raised (A) or B? Answer A/B.",A,4
+66,"If forecast accuracy declines, does it cause stockouts to increase (A) or B? Answer A/B.",A,4
+67,"If carrier capacity tightens, does it cause freight rates to increase (A) or B? Answer A/B.",A,4
+68,"If packaging failures increase, does it cause damage claims to rise (A) or B? Answer A/B.",A,3
+69,"If batch size increases, does it cause cycle time to lengthen (A) or B? Answer A/B.",A,3
+70,"If priority orders surge, does it cause schedule instability (A) or B? Answer A/B.",A,3
+71,"If supplier quality drops, does it cause rework to increase (A) or B? Answer A/B.",A,4
+72,"If inbound variability increases, does it cause buffer inventory to rise (A) or B? Answer A/B.",A,3
+73,"If port delays worsen, does it cause ocean ETAs to slip (A) or B? Answer A/B.",A,4
+74,"If reorder point is set too low, does it cause frequent stockouts (A) or B? Answer A/B.",A,3
+75,"If warehouse staffing falls short, does it cause order cycle time to increase (A) or B? Answer A/B.",A,3
+76,"If demand spikes unexpectedly, does it cause allocation to regions (A) or B? Answer A/B.",A,3
+77,"If supplier MOQs increase, does it cause inventory holding to rise (A) or B? Answer A/B.",A,3
+78,"If inaccurate master data spreads, does it cause MRP proposals to be wrong (A) or B? Answer A/B.",A,4
+79,"If cold-chain breaks, does it cause spoilage rates to rise (A) or B? Answer A/B.",A,5
+80,"If customs inspections intensify, does it cause border delay time to increase (A) or B? Answer A/B.",A,3
+81,"If upstream yield drops, does it cause component shortages which then force line stoppages? (A) or is the reverse chain true (B)? Answer A/B.",A,5
+82,"If port congestion rises, does it cause vessel berthing delays which then push warehouse receiving beyond capacity? (A) or is the reverse chain true (B)? Answer A/B.",A,4
+83,"If supplier lead time lengthens, does it cause safety stock increases which then tie up working capital? (A) or is the reverse chain true (B)? Answer A/B.",A,4
+84,"If demand forecast is biased high, does it cause overproduction which then increases obsolescence risk? (A) or is the reverse chain true (B)? Answer A/B.",A,4
+85,"If QC failure rates increase, does it cause rework which then extends cycle time and reduces throughput? (A) or is the reverse chain true (B)? Answer A/B.",A,4
+86,"If lane reliability declines, does it cause buffer time additions which then reduce schedule adherence? (A) or is the reverse chain true (B)? Answer A/B.",A,3
+87,"If maintenance is deferred, does it cause more breakdowns which then raise spare parts consumption? (A) or is the reverse chain true (B)? Answer A/B.",A,3
+88,"If supplier bankruptcy risk rises, does it cause dual‑sourcing which then increases unit cost? (A) or is the reverse chain true (B)? Answer A/B.",A,4
+89,"If cold‑chain exceptions occur, does it cause product holds which then trigger write‑offs? (A) or is the reverse chain true (B)? Answer A/B.",A,5
+90,"If ASN accuracy declines, does it cause receiving mismatches which then delay putaway? (A) or is the reverse chain true (B)? Answer A/B.",A,3
+91,"If packaging design weakens, does it cause in‑transit damage which then raises returns? (A) or is the reverse chain true (B)? Answer A/B.",A,3
+92,"If regulatory compliance tightens, does it cause extra documentation which then delays customs clearance? (A) or is the reverse chain true (B)? Answer A/B.",A,3
+93,"If S&OP cadence slips, does it cause plan misalignment which then drives expedite costs? (A) or is the reverse chain true (B)? Answer A/B.",A,3
+94,"If transportation strikes occur, does it cause rerouting which then increases lead times? (A) or is the reverse chain true (B)? Answer A/B.",A,4
+95,"If pallet quality declines, does it cause handling incidents which then slow dock operations? (A) or is the reverse chain true (B)? Answer A/B.",A,3
+96,"If supplier capacity overbooks, does it cause partial shipments which then fragment receiving? (A) or is the reverse chain true (B)? Answer A/B.",A,3
+97,"If BOM changes late, does it cause engineering holds which then delay production release? (A) or is the reverse chain true (B)? Answer A/B.",A,4
+98,"If slotting is outdated, does it cause longer pick paths which then reduce pick rate? (A) or is the reverse chain true (B)? Answer A/B.",A,3
+99,"If demand shifts regionally, does it cause rebalance transfers which then lift transportation cost? (A) or is the reverse chain true (B)? Answer A/B.",A,3
+100,"If KPI incentives misalign, does it cause local optima which then degrade end‑to‑end service? (A) or is the reverse chain true (B)? Answer A/B.",A,3
+101,"Given partial scans, is a surge in missing inventory more likely caused by misplacement (A) or by theft (B) (A) or B? Answer A/B.",A,3
+102,"With noisy demand signals, is a bullwhip spike more likely caused by forecast overreaction (A) or by supplier gaming (B) (A) or B? Answer A/B.",A,3
+103,"Under uncertain ETAs, is late delivery more likely caused by port dwell (A) or by last‑mile routing errors (B) (A) or B? Answer A/B.",A,3
+104,"Given limited telemetry, is temperature excursion more likely caused by reefer failure (A) or by door open time (B) (A) or B? Answer A/B.",A,3
+105,"With incomplete ASN data, is receiving delay more likely caused by documentation errors (A) or by labor shortage (B) (A) or B? Answer A/B.",A,2
+106,"Given sparse quality checks, is defect discovery more likely caused by upstream process drift (A) or by inspection bias (B) (A) or B? Answer A/B.",A,3
+107,"Under partial GPS logs, is route variance more likely caused by congestion (A) or by driver non‑compliance (B) (A) or B? Answer A/B.",A,2
+108,"With limited sensor fidelity, is vibration damage more likely caused by rough handling (A) or by packaging weakness (B) (A) or B? Answer A/B.",B,3
+109,"Given scattered orders, is picker idle time more likely caused by batching rules (A) or by demand lull (B) (A) or B? Answer A/B.",A,2
+110,"Under mixed SKUs, is slotting inefficiency more likely caused by outdated profiles (A) or by low training (B) (A) or B? Answer A/B.",A,2
+111,"With partial EDI feeds, is shipment mismatch more likely caused by data latency (A) or by labeling errors (B) (A) or B? Answer A/B.",B,2
+112,"Given unknown seasonality, is stockout risk more likely caused by base demand underestimation (A) or by supplier unreliability (B) (A) or B? Answer A/B.",A,3
+113,"Under noisy cycle counts, is variance more likely caused by count error (A) or by shrinkage (B) (A) or B? Answer A/B.",A,2
+114,"With uncertain carrier mix, is cost surge more likely caused by surcharge policy (A) or by suboptimal tendering (B) (A) or B? Answer A/B.",A,3
+115,"Given sparse MTBF data, is downtime risk more likely caused by aging assets (A) or by operator error (B) (A) or B? Answer A/B.",A,3
+116,"Under incomplete IoT signals, is cold‑chain breach more likely caused by route delay (A) or by sensor faults (B) (A) or B? Answer A/B.",A,3
+117,"With unknown pick density, is throughput dip more likely caused by congestion (A) or by slow equipment (B) (A) or B? Answer A/B.",A,2
+118,"Given partial supplier KPIs, is schedule slip more likely caused by capacity constraints (A) or by holiday effects (B) (A) or B? Answer A/B.",A,2
+119,"Under limited returns data, is reverse logistics delay more likely caused by carrier pickup variability (A) or by warehouse backlog (B) (A) or B? Answer A/B.",B,2
+120,"With noisy load cells, is weight variance more likely caused by packing error (A) or by scale drift (B) (A) or B? Answer A/B.",A,2
